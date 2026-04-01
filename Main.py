@@ -4,8 +4,8 @@ from tkinter import messagebox
 import requests
 
 # OpenWeatherMap API key and base URL
-api_key = "292a2d812f670939fcf3bfcd61fcb8dd"
-Base_url = "http://api.openweathermap.org/data/2.5/weather"
+api_key = "YOUR_API_KEY"
+Base_url = "http://api.openweathermap.org/data/2.5/weather" 
 
 def weather():
     result_label.config(text="Fetching weather... ⏳")
