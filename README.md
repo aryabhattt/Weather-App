@@ -1,6 +1,7 @@
 # 🌦️ Weather App (Python + Tkinter)
 
 A simple and interactive weather application built using Python and Tkinter that fetches real-time weather data using an API.
+A beginner-friendly weather app I built while learning APIs and Tkinter
 
 ## 🚀 Features
 
@@ -36,8 +37,4 @@ A simple and interactive weather application built using Python and Tkinter that
 
 This project was initially inspired by tutorials, but extended with custom features like dynamic UI updates, weather-based advice, and improved user interaction.
 
-## 📸 Future Improvements
-
-* Add 5-day forecast
-* Improve UI styling
-* Add search history feature
+“This project helped me understand how APIs work and how to connect backend data with a GUI and may help you too”
