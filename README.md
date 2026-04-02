@@ -32,6 +32,19 @@ A beginner-friendly weather app I built while learning APIs and Tkinter
    ```
    python main.py
    ```
+## Screenshots:
+<img width="517" height="592" alt="image" src="https://github.com/user-attachments/assets/df06248a-1998-4b96-8726-480eada328af" />
+
+## 🧠 What I Learned
+- How to fetch real-time data using APIs
+- How to build GUI applications using Tkinter
+- How to handle errors and improve user experience
+- How to make applications interactive using logic
+
+ ## 🚀 Future Improvements
+- Add 5-day weather forecast
+- Improve UI design
+- Add search history feature
 
 ## 💡 About the Project
 
